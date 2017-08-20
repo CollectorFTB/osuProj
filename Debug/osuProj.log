@@ -1,0 +1,6 @@
+﻿  main.cpp
+c:\users\student\documents\visual studio 2015\projects\osuproj\main.cpp(36): warning C4018: '<': signed/unsigned mismatch
+c:\users\student\documents\visual studio 2015\projects\osuproj\main.cpp(47): warning C4018: '<': signed/unsigned mismatch
+c:\users\student\documents\visual studio 2015\projects\osuproj\main.cpp(55): warning C4018: '<': signed/unsigned mismatch
+  osuProj.vcxproj -> C:\Users\student\Documents\Visual Studio 2015\Projects\osuProj\Debug\osuProj.exe
+  osuProj.vcxproj -> C:\Users\student\Documents\Visual Studio 2015\Projects\osuProj\Debug\osuProj.pdb (Partial PDB)
