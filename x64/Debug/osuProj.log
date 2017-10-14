@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\gilad\desktop\osuproj-master\main.cpp(45): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  osuProj.vcxproj -> C:\Users\gilad\Desktop\osuProj-master\x64\Debug\osuProj.exe
+  osuProj.vcxproj -> C:\Users\gilad\Desktop\osuProj-master\x64\Debug\osuProj.pdb (Partial PDB)
